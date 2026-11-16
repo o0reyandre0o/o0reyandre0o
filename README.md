@@ -21,12 +21,29 @@ Hago páginas web y me encargo de que aparezcan en Google. Soy de Cabimas, Venez
 
 ## Proyectos en línea
 
-| Proyecto | Qué es |
-| --- | --- |
-| [Cabifinde](https://cabifinde.com) | Directorio de negocios de Cabimas |
-| [Pastelitos Pipo](https://pastelitospipovenezuela.com) | Menú por sede, pedidos y panel para managers |
-| [Traductia](https://traductiaec.com) | Web de traducciones en Ecuador |
-| [CN Mobile Mechanic](https://cnmobilemechanic.com) | Mecánica a domicilio con SEO local |
+**37 webs publicadas** para negocios de Venezuela, Islas Caimán, Estados Unidos, Puerto Rico y Ecuador.
+
+### Prisma Develop
+
+| Proyecto | Qué es | Caso |
+| --- | --- | --- |
+| [Cabifinde](https://cabifinde.com) | Guía de Cabimas con bot de Telegram | [Ver caso](https://github.com/o0reyandre0o/caso-cabifinde) |
+| [Pastelitos Pipo](https://pastelitospipovenezuela.com) | Menú por sede, pedidos y panel para managers | [Ver caso](https://github.com/o0reyandre0o/caso-pastelitos-pipo) |
+| [Traductia](https://traductiaec.com) | Traducciones oficiales en Ecuador | [Ver caso](https://github.com/o0reyandre0o/caso-traductia) |
+| [CN Mobile Mechanic](https://cnmobilemechanic.com) | Mecánica a domicilio en Tampa, con app propia | [Ver caso](https://github.com/o0reyandre0o/caso-cn-mobile) |
+
+### Con Toc Toc Marketing · Islas Caimán, Florida y Puerto Rico
+
+- **🍽️ Restaurantes y comida:** [Uncle Liu's Kitchen](https://uncleliu.ky) · [San Si Wu](https://sansiwu.ky) · [Carnivore Smash Burger](https://carnivore.ky) · [Coconut Room](https://coconutroom.ky) · [Yallah](https://yallah.ky) · [J's Kitchen](https://jskitchen.ky) · [Prime Kitchen](https://primekitchen.ky) · [The Yard](https://theyard.ky) · [19-81 Brewing Co.](https://1981brewingco.com) · [BMF](https://bmf345.com)
+- **🏝️ Turismo y alquileres:** [Adventura Cayman](https://adventuracayman.com) · [Palm Bay Getaways](https://palmbaycayman.com) · [Paradise Paddle](https://paradisepaddlecayman.com)
+- **🏡 Bienes raíces:** [Easy Lot](https://easylot.ky) · [Prospect Center](https://prospectcenter.ky)
+- **🚗 Autos y servicios:** [Caytech Air Conditioning](https://caytechac.com) · [Luxe Detailing](https://luxedetailing.ky) · [We Wax](https://wewaxthecompetition.com) · [Prestigious Detail](https://prestigiousdetail.com) · [TintxKing](https://tintxking.com) · [Your Handyman Orlando](https://yourhandymanorlando.com)
+- **🧘 Bienestar, moda y eventos:** [Raw Balance](https://rawbalance.ky) · [Jaly Dance Fit](https://jalydancefit.com) · [Sutton Burke](https://suttonburke.com) · [VitaGo](https://vitagopr.com) · [The Conscious Closet](https://theconsciouscloset.ky) · [Miss Cayman Islands](https://misscaymanislands.ky)
+- **🏢 Empresas:** [Prime Group](https://primegroup.ky) · [PR Optics](https://pr-optics.com) · [SolaraPRO](https://solara-pro.com)
+
+### Con Polimedios · Ecuador
+
+- [Blingard](https://blingard.com) · [Luna Flower's](https://lunaflowers.ec) · [Veseind](https://veseind.com)
 
 ## Con qué trabajo
 
@@ -34,7 +51,7 @@ Hago páginas web y me encargo de que aparezcan en Google. Soy de Cabimas, Venez
   <img src="https://skillicons.dev/icons?i=wordpress,php,js,html,css,tailwind,react,vite,supabase,git,github,vscode&theme=dark" alt="WordPress, PHP, JavaScript, HTML, CSS, Tailwind, React, Vite, Supabase, Git, GitHub, VS Code">
 </p>
 
-> La mayoría de mi trabajo vive en repos privados de clientes; los proyectos de arriba están en línea.
+> El código de estos proyectos es privado. Abajo, en los repos fijados, están los casos con capturas y resultados.
 
 ---
 
